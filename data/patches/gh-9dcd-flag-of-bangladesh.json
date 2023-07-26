@@ -1,0 +1,66 @@
+{
+	"id": 1381,
+	"name": "Flag of Bangladesh",
+	"description": "Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. The green on Bangladesh's flag represents the aforementioned greenery of the country. The red disc symbolizes the dawn of a new day and end of oppression, as well as the blood of those who died for the independence of the country - it is slightly offset towards the hoist so it appears to be centered when the flag is flying.\n\nThis art depicts the flag of Bangladesh with a Bengal tiger, National Martyrs' Memorial, Martyr Monument.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Bangladesh"
+		],
+		"subreddit": [
+			"Bangladesh"
+		],
+		"discord": [
+			"bangladesh"
+		]
+	},
+	"path": {
+		"127-249": [
+			[
+				348,
+				-550
+			],
+			[
+				348,
+				-527
+			],
+			[
+				388,
+				-527
+			],
+			[
+				388,
+				-550
+			],
+			[
+				348,
+				-550
+			],
+			[
+				348,
+				-527
+			],
+			[
+				348,
+				-520
+			],
+			[
+				388,
+				-520
+			],
+			[
+				388,
+				-550
+			],
+			[
+				366,
+				-550
+			]
+		]
+	},
+	"center": {
+		"127-249": [
+			368,
+			-524
+		]
+	}
+}
